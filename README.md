@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:151B2E,100:1E2340&height=280&section=header&text=DEVENDRA%20AGNIHOTRI&fontSize=52&fontColor=E8EAF6&fontAlignY=40&desc=Engineering%20Mobile%20Experiences%20That%20Scale.&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=280&text=DEVENDRA%20AGNIHOTRI&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Mobile%20Experiences%20That%20Scale.&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -41,10 +41,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=About%20Me&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=Engineering%20philosophy%2C%20in%20four%20habits&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>About Me</h2>
+<sub>Engineering philosophy, in four habits</sub>
 </div>
 
 <table>
@@ -65,10 +66,11 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Tech%20Stack&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=Tools%20I%20reach%20for%20by%20default&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Tech Stack</h2>
+<sub>Tools I reach for by default</sub>
 </div>
 
 <table width="100%">
@@ -148,10 +150,11 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Featured%20Projects&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=Published%20apps%2C%20live%20on%20the%20App%20Store&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Featured Projects</h2>
+<sub>Published apps, live on the App Store</sub>
 </div>
 
 <table width="100%">
@@ -232,10 +235,12 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Architecture%20Expertise&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=The%20foundations%20I%20build%20on&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Architecture Expertise</h2>
+<sub>The foundations I build on</sub>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SwiftUI-151B2E?style=for-the-badge&labelColor=0B0F19&color=FA7343" />
 <img src="https://img.shields.io/badge/UIKit-151B2E?style=for-the-badge&labelColor=0B0F19&color=6366F1" />
@@ -256,10 +261,11 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Open%20Source&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=On-device%20AI%20explorations%20and%20tools%20other%20engineers%20use&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Open Source</h2>
+<sub>On-device AI explorations and tools other engineers use</sub>
 </div>
 
 <table width="100%">
@@ -307,10 +313,12 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=GitHub%20Analytics&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=The%20numbers%20behind%20the%20commits&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>GitHub Analytics</h2>
+<sub>The numbers behind the commits</sub>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=devendrabhumca12&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0B0F19&title_color=8B9CFF&icon_color=22D3EE&text_color=E8EAF6&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrabhumca12&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0B0F19&title_color=8B9CFF&text_color=E8EAF6" height="165"/>
@@ -341,10 +349,11 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Professional%20Journey&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=10%2B%20years%2C%20four%20companies&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Professional Journey</h2>
+<sub>10+ years, four companies</sub>
 </div>
 
 <table width="100%">
@@ -362,10 +371,12 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Achievements&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=A%20decade%20plus%2C%20in%20numbers&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Achievements</h2>
+<sub>A decade plus, in numbers</sub>
+<br/><br/>
 
 <table>
 <tr>
@@ -416,10 +427,12 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Current%20Focus&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=What%20I'm%20deep%20in%20right%20now&descAlignY=90&descSize=14&descColor=8B9CFF" width="100%"/>
+<h2>Current Focus</h2>
+<sub>What I'm deep in right now</sub>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/On--Device%20AI-151B2E?style=for-the-badge&labelColor=0B0F19&color=6366F1"/>
 <img src="https://img.shields.io/badge/SwiftData-151B2E?style=for-the-badge&labelColor=0B0F19&color=22D3EE"/>
@@ -433,10 +446,11 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=What%20Colleagues%20Say&fontSize=30&fontColor=E8EAF6&fontAlignY=70" width="100%"/>
+<h2>What Colleagues Say</h2>
+<br/>
 
 <table><tr><td>
 
@@ -451,7 +465,7 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
 
@@ -463,10 +477,12 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6366F1,100:22D3EE&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Let's%20Build%20Something&fontSize=34&fontColor=E8EAF6&fontAlignY=70&desc=Open%20to%20Staff%2FSenior%20iOS%20roles%20where%20architecture%2C%20mentorship%2C%20and%20AI-assisted%20engineering%20matter&descAlignY=90&descSize=13&descColor=8B9CFF" width="100%"/>
+<h2>Let's Build Something</h2>
+<sub>Open to Staff/Senior iOS roles where architecture, mentorship, and AI-assisted engineering matter</sub>
+<br/><br/>
 
 <a href="https://devendrabhumca12.github.io/"><img src="https://img.shields.io/badge/Portfolio-151B2E?style=for-the-badge&logo=safari&logoColor=22D3EE&labelColor=0B0F19" /></a>
 <a href="https://github.com/devendrabhumca12"><img src="https://img.shields.io/badge/GitHub-151B2E?style=for-the-badge&logo=github&logoColor=E8EAF6&labelColor=0B0F19" /></a>
@@ -480,4 +496,4 @@ I'm a **Staff iOS Engineer at Nagarro Software**, with **10+ years** across **Sw
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2340,50:151B2E,100:0B0F19&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6366F1&height=150" width="100%"/>
